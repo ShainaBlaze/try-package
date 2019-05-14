@@ -1,0 +1,16 @@
+{
+    "name": "shaina/try-pack",
+    "description": "Simple trial compaser package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Shaina Blaze B. Mendrique",
+            "email": "shaina@simplexi.com.ph"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"shaina\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
