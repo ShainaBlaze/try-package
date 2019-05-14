@@ -9,8 +9,5 @@
         }
     ],
     "minimum-stability": "stable",
-    "autoload": {
-        "psr-4": {"shaina\\HelloWorld\\": "src/"}
-    },
     "require": {}
 }
