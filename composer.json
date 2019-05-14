@@ -1,5 +1,6 @@
 {
     "name": "shaina/try-pack",
+    "type": "library",
     "description": "First Composer",
     "authors": [
         {
